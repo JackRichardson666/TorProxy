@@ -21,6 +21,14 @@ pip install -r requirements.txt
 py -m main
 ```
 
+## Tor installing
+
+```
+1) to use tor you need to download it here - https://mega.nz/file/bcUiHJYb#Efn3WpW1EK3zS780b5h0PAH0TPixpRynDeATiMnkWEY
+2) place the contents of the archive in the project folder
+3) change the bridge in torrc in the Tor folder
+```
+
 ## Author
 
 👤 **JackRichardson666**
