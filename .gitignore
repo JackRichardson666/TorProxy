@@ -1,0 +1,15 @@
+
+Tor/geoip
+Tor/geoip6
+Tor/libcrypto-1_1.dll
+Tor/libevent-2-1-7.dll
+Tor/libevent_core-2-1-7.dll
+Tor/libevent_extra-2-1-7.dll
+Tor/libgcc_s_sjlj-1.dll
+Tor/libssl-1_1.dll
+Tor/libssp-0.dll
+Tor/libwinpthread-1.dll
+Tor/tor-gencert.exe
+Tor/tor.exe
+Tor/torrc
+Tor/zlib1.dll
