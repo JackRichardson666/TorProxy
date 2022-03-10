@@ -27,6 +27,8 @@ py -m main
 1) to use tor you need to download it here - https://mega.nz/file/bcUiHJYb#Efn3WpW1EK3zS780b5h0PAH0TPixpRynDeATiMnkWEY
 2) place the contents of the archive in the project folder
 3) change the bridge in torrc in the Tor folder
+
+VT - https://www.virustotal.com/gui/file/1c6c509fb24e9fdc2445a47f1ce51a367704aa0eee201ad1d21890429aad22c6?nocache=1 (Trojan.Malware.7604.susgen lol what?)
 ```
 
 ## Author
