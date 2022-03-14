@@ -19,6 +19,8 @@ pip install -r requirements.txt
 
 ```sh
 py -m main
+
+proxy address - socks5://127.0.0.1:9050
 ```
 
 ## Tor installing
